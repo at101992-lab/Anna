@@ -1,9 +1,29 @@
  <!DOCTYPE html>
 <html>
-<head>,<h1>☆*: .｡. Sport .｡.:*☆ <H>
-    <title><h1>Hi, my name is Anna. My nameis Anna </h1></title>
+<head>,<h1>☆*: .｡.Hobbies.｡.:*☆ <H>
+    <title><h1>Hi, my name is Anna.</h1></title>
 </head>,
-<body> <h2>I like sports!    
+<body> <h2>In my opinion hobbies are great. They help you learn, focus and just have fun.Hobbies can be intellectual, digital, physical and creative.Here are some examples of hobbies : </h2>
+
+<h4>Painting, drawing, sketching
+Playing musical instruments (guitar, piano)
+Writing (stories, blogs, poetry)
+Photography
+Crafts (knitting, sewing, pottery, origami) 
+Hiking, cycling, running, swimming
+Yoga, dancing, martial arts
+Gardening
+Rock climbing, skiing, surfing 
+Reading (books, comics)
+Learning languages
+Playing chess, board games, puzzles
+Coding, graphic design, game development
+
+My personal favourites are:
+Dancing, reading, learning languages, running and swimming </h4>
+<img src="cat.jpg" alt="A fluffy cat">
+
+
 
     <p>This is my first GitHub webpage.</p>
 </body>
