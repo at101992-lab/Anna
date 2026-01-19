@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
-<head>,<h1>☆*: .｡.Hobbies.｡.:*☆ <H>
-    <title><h1>Hi, my name is Anna.</h1></title>
+<head>,<h1>☆*: .｡.Hobbies.｡.:*☆</h1>
+    <title><h2>Hi, my name is Anna.</h2></title>
 </head>,
 <body> <h2> And in my opinion hobbies are great. They help you learn, focus and just have fun.Hobbies can be intellectual, digital, physical and creative.Here are some examples of hobbies : </h2>
 
@@ -19,15 +19,15 @@ Learning languages
 Playing chess, board games, puzzles
 Coding, graphic design, game development</h4>
 <h2>My personal favourites are:</h2>
-Dancing, reading, learning languages, running and swimming </h4>
+<h4>Dancing, reading, learning languages, running and swimming </h4>
 <img src="books.jpeg" alt="Hobbies">
 <h2><About hobbies</h2>
 <h3>Reading: In simple words, reading is looking at written symbols (like letters and words) and understanding the meaning behind them.</h3>
-Some popular books are :
-Harry Potter series by J.K. Rowling (huge global phenomenon)
+<h3>Some popular books are :</h3>
+<h4>Harry Potter series by J.K. Rowling (huge global phenomenon)
 The Hunger Games series by Suzanne Collins (popular YA dystopian)
 The Alchemist by Paulo Coelho (widely read philosophical novel)
-The Da Vinci Code by Dan Brown (popular thriller) 
+The Da Vinci Code by Dan Brown (popular thriller) </h4>
   
 
     <p>This is my first GitHub webpage.</p>
