@@ -27,5 +27,8 @@ Coding, graphic design, game development</h4>
 
     <p>Now you know even more about hobbies(and my hobbies).</p>
 </body>
+ body{
+Background-color :#FAB3B3;
+}
 </html>
 
