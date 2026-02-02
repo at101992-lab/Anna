@@ -6,7 +6,7 @@
 <h2>Hi, my name is Anna.</h2>
 </head>,
 <body> <h2> And in my opinion hobbies are great. They help you learn, focus and just have fun.Hobbies can be intellectual, digital, physical and creative.Here are some examples of hobbies : </h2>
-
+S
 <h4>Painting, drawing, sketching
 Playing musical instruments (guitar, piano)
 Writing (stories, blogs, poetry)
@@ -24,7 +24,7 @@ Coding, graphic design, game development</h4>
 <h4>Dancing, reading, learning languages, running and swimming </h4>
 
 <img src= "hobbies.jpg" alt= "100 ideas to try". width=50 height=50"> 
-  
+<img src= "books.jpeg"  alt= "books to read".Width= 25 Height=25  
 
     <p>Now you know even more about hobbies(and my hobbies).</p>
 </body>
